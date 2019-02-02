@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         //Just adding random commit
         //Testing second commit
+        //Johnny commit!
     }
 }
